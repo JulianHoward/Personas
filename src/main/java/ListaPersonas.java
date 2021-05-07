@@ -1,9 +1,14 @@
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.core.Logger;
+
 import java.util.Iterator;
 
 public class ListaPersonas<T> implements Iterable<T> {
 
     protected Contenedor<T> raiz;
     protected int tamano;
+
+    private final static Logger logger = (Logger) LogManager.getRootLogger();
 
     public ListaPersonas() {
         raiz = null;
@@ -23,6 +28,7 @@ public class ListaPersonas<T> implements Iterable<T> {
         nuevo.setSiguiente(raiz);
         raiz = nuevo;
         tamano++;
+        logger.debug("Se añade una nueva persona a mi lista");
     }
 
     public int tamano() {

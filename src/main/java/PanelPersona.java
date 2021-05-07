@@ -36,10 +36,13 @@ public class PanelPersona extends JPanel implements PropertyChangeListener {
     @Override
     protected void paintComponent(Graphics g) {
         Iterator<Persona> iterador= lista.iterator();
+        int x = 0;
         super.paintComponent(g);
         while (iterador.hasNext()){
+            persona.setAux(x);
             persona = iterador.next();
             persona.dibujar(g);
+            x += 1;
         }
         repaint();
     }

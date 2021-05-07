@@ -16,6 +16,7 @@ public class Persona implements Comparable<Persona>{
     private int longHair;
     private int x;
     private int y;
+    private int aux;
     private int porcentajeCabeza;
     private int porcentajeTronco;
     private Color color;
@@ -42,6 +43,14 @@ public class Persona implements Comparable<Persona>{
         longHair = (int) (altura * 0.05);
         observed = new PropertyChangeSupport(this);
         this.comparador = new ComparadorPersona();
+    }
+
+    public int getAux() {
+        return aux;
+    }
+
+    public void setAux(int aux) {
+        this.aux = aux;
     }
 
     public int getAltura() {
@@ -86,6 +95,9 @@ public class Persona implements Comparable<Persona>{
     }
 
     public void dibujar(Graphics g) {
+        if(aux != 0){
+            x = aux * 100;
+        }
         y = 400 - altura;
         if (edad < 20) {
             color = new Color(255,255,0);
