@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="log4j-api-2.14.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../3° Semestre/Programación III/apache-log4j-2.14.1-bin/apache-log4j-2.14.1-bin/log4j-api-2.14.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

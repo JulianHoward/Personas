@@ -1,0 +1,102 @@
+2021-05-06 00:25:50 DEBUG Empieza el programa
+2021-05-06 00:27:52 DEBUG Empieza el programa
+2021-05-06 00:30:15 DEBUG Empieza el programa
+2021-05-06 00:31:24 DEBUG Empieza el programa
+2021-05-06 00:31:30 DEBUG Cliente crea nueva persona
+2021-05-06 00:31:46 DEBUG Nombre: mica --> Edad: 14 --> Altura: 178 --> Sexo: femenino
+2021-05-06 00:33:11 DEBUG Empieza el programa
+2021-05-06 00:33:15 DEBUG Cliente crea nueva persona
+2021-05-06 00:33:32 DEBUG Nombre: mica --> Edad: 10 --> Altura: 168 --> Sexo: femenino
+2021-05-06 00:33:36 DEBUG Cliente crea nueva persona
+2021-05-06 00:33:58 DEBUG Nombre: mm --> Edad: 45 --> Altura: 188 --> Sexo: femenino
+2021-05-06 00:45:49 DEBUG Empieza el programa
+2021-05-06 00:45:59 DEBUG Cliente crea nueva persona
+2021-05-06 00:46:11 DEBUG Nombre: ed --> Edad: 13 --> Altura: 180 --> Sexo: f
+2021-05-06 00:46:24 DEBUG Cliente crea nueva persona
+2021-05-06 00:46:35 DEBUG Nombre:  --> Edad: 13 --> Altura: 160 --> Sexo: 
+2021-05-06 01:20:43 DEBUG Empieza el programa
+2021-05-06 01:20:45 DEBUG Cliente crea nueva persona
+2021-05-06 01:21:03 DEBUG Nombre: hh --> Edad: 45 --> Altura: 155 --> Sexo: f
+2021-05-06 01:31:52 DEBUG Empieza el programa
+2021-05-06 01:31:55 DEBUG Cliente crea nueva persona
+2021-05-06 01:32:28 DEBUG Nombre: gg --> Edad: 13 --> Altura: 169 --> Sexo: f
+2021-05-06 01:32:40 DEBUG Cliente crea nueva persona
+2021-05-06 01:32:51 DEBUG Nombre: jhk --> Edad: 77 --> Altura: 134 --> Sexo: m
+2021-05-06 01:45:20 DEBUG Empieza el programa
+2021-05-06 01:45:57 DEBUG Cliente crea nueva persona
+2021-05-06 01:46:16 DEBUG Nombre: eddy --> Edad: 67 --> Altura: 166 --> Sexo: femenino
+2021-05-06 01:49:53 DEBUG Empieza el programa
+2021-05-06 01:50:00 DEBUG Cliente crea nueva persona
+2021-05-06 01:50:16 DEBUG Nombre: bfgb --> Edad: 66 --> Altura: 155 --> Sexo: fbdf
+2021-05-06 01:51:25 DEBUG Empieza el programa
+2021-05-06 01:51:28 DEBUG Cliente crea nueva persona
+2021-05-06 01:51:42 DEBUG Nombre: nfnfg --> Edad: 55 --> Altura: 145 --> Sexo: fbdfb
+2021-05-06 01:51:46 DEBUG Cliente crea nueva persona
+2021-05-06 01:51:56 DEBUG Nombre: mhgm --> Edad: 58 --> Altura: 123 --> Sexo: bfd
+2021-05-06 01:52:10 DEBUG Cliente crea nueva persona
+2021-05-06 01:52:28 DEBUG Nombre: hgtrh --> Edad: 543 --> Altura: 345 --> Sexo: gthth
+2021-05-06 01:54:13 DEBUG Empieza el programa
+2021-05-06 01:54:16 DEBUG Cliente crea nueva persona
+2021-05-06 01:54:25 DEBUG Nombre: nfnf --> Edad: 34 --> Altura: 134 --> Sexo: hrth
+2021-05-06 01:54:29 DEBUG Cliente crea nueva persona
+2021-05-06 01:54:39 DEBUG Nombre: gfnfgn --> Edad: 44 --> Altura: 675 --> Sexo: fdbfd
+2021-05-06 02:06:01 DEBUG Empieza el programa
+2021-05-06 02:06:11 DEBUG Cliente crea nueva persona
+2021-05-06 02:06:25 DEBUG Nombre: ghi --> Edad: 34 --> Altura: 150 --> Sexo: femeino
+2021-05-06 02:06:33 DEBUG Cliente crea nueva persona
+2021-05-06 02:06:47 DEBUG Nombre: fe --> Edad: 12 --> Altura: 144 --> Sexo: femenino
+2021-05-06 02:10:31 DEBUG Empieza el programa
+2021-05-06 02:10:51 DEBUG Cliente crea nueva persona
+2021-05-06 02:11:01 DEBUG Nombre: ff --> Edad: 12 --> Altura: 155 --> Sexo: femenino
+2021-05-06 02:11:06 DEBUG Cliente crea nueva persona
+2021-05-06 02:11:18 DEBUG Nombre: qqq --> Edad: 67 --> Altura: 167 --> Sexo: cc
+2021-05-06 02:11:24 DEBUG Cliente crea nueva persona
+2021-05-06 02:16:15 DEBUG Empieza el programa
+2021-05-06 02:16:22 DEBUG Cliente crea nueva persona
+2021-05-06 02:16:37 DEBUG Nombre: jrtj --> Edad: 55 --> Altura: 123 --> Sexo: g
+2021-05-06 02:16:39 DEBUG Cliente crea nueva persona
+2021-05-06 02:16:52 DEBUG Nombre: gfgg --> Edad: 12 --> Altura: 188 --> Sexo: female
+2021-05-06 02:16:58 DEBUG Cliente elimina todas las personas de la lista
+2021-05-06 02:17:00 DEBUG Cliente crea nueva persona
+2021-05-06 02:17:09 DEBUG Nombre: fbf --> Edad: 23 --> Altura: 199 --> Sexo: femenino
+2021-05-06 02:17:14 DEBUG Cliente crea nueva persona
+2021-05-06 02:17:31 DEBUG Nombre: bfdb --> Edad: 20 --> Altura: 200 --> Sexo: femenino
+2021-05-06 02:17:35 DEBUG Cliente crea nueva persona
+2021-05-06 02:17:48 DEBUG Nombre: vfbg --> Edad: 67 --> Altura: 190 --> Sexo: femenino
+2021-05-06 02:17:52 DEBUG Cliente crea nueva persona
+2021-05-06 02:18:04 DEBUG Nombre: fefefefe --> Edad: 23 --> Altura: 180 --> Sexo: femenino
+2021-05-06 02:21:04 DEBUG Cliente crea nueva persona
+2021-05-06 02:21:14 DEBUG Nombre: ngfn --> Edad: 23 --> Altura: 155 --> Sexo: femenino
+2021-05-06 02:23:54 DEBUG Empieza el programa
+2021-05-06 02:23:58 DEBUG Cliente crea nueva persona
+2021-05-06 02:24:14 DEBUG Nombre: gdgds --> Edad: 22 --> Altura: 145 --> Sexo: fe
+2021-05-06 02:24:16 DEBUG Cliente crea nueva persona
+2021-05-06 02:24:26 DEBUG Nombre: bfdbd --> Edad: 45 --> Altura: 178 --> Sexo: gg
+2021-05-06 02:24:28 DEBUG Cliente crea nueva persona
+2021-05-06 02:24:37 DEBUG Nombre: jhkjk --> Edad: 88 --> Altura: 190 --> Sexo: sss
+2021-05-06 02:24:40 DEBUG Cliente crea nueva persona
+2021-05-06 02:24:54 DEBUG Nombre: dgadv --> Edad: 12 --> Altura: 230 --> Sexo: uk
+2021-05-06 02:24:57 DEBUG Cliente crea nueva persona
+2021-05-06 02:25:14 DEBUG Nombre: zxc --> Edad: 1 --> Altura: 260 --> Sexo: vc
+2021-05-06 02:25:23 DEBUG Cliente elimina todas las personas de la lista
+2021-05-06 16:46:19 DEBUG Empieza el programa
+2021-05-06 16:46:23 DEBUG Cliente crea nueva persona
+2021-05-06 16:46:36 DEBUG Nombre: dsvsd --> Edad: 34 --> Altura: 155 --> Sexo: femenino
+2021-05-06 16:46:38 DEBUG Cliente crea nueva persona
+2021-05-06 16:46:49 DEBUG Nombre: dfbd --> Edad: 12 --> Altura: 200 --> Sexo: male
+2021-05-06 16:46:52 DEBUG Cliente crea nueva persona
+2021-05-06 16:47:04 DEBUG Nombre: wefvwed --> Edad: 10 --> Altura: 250 --> Sexo: femenino
+2021-05-06 16:47:10 DEBUG Cliente ordena la lista de personas por su altura
+2021-05-06 16:47:17 DEBUG Cliente ordena la lista de personas por su altura
+2021-05-06 16:47:22 DEBUG Cliente crea nueva persona
+2021-05-06 16:47:34 DEBUG Nombre: sdvsd --> Edad: 23 --> Altura: 120 --> Sexo: asd
+2021-05-06 16:47:38 DEBUG Cliente ordena la lista de personas por su altura
+2021-05-06 16:50:19 DEBUG Empieza el programa
+2021-05-06 16:50:23 DEBUG Cliente crea nueva persona
+2021-05-06 16:50:36 DEBUG Nombre: fb --> Edad: 12 --> Altura: 250 --> Sexo: dsv
+2021-05-06 16:50:38 DEBUG Cliente crea nueva persona
+2021-05-06 16:50:51 DEBUG Nombre: jhbf --> Edad: 55 --> Altura: 270 --> Sexo: zxc
+2021-05-06 16:50:52 DEBUG Cliente crea nueva persona
+2021-05-06 16:51:03 DEBUG Nombre: bdfb --> Edad: 89 --> Altura: 100 --> Sexo: femenino
+2021-05-06 16:51:08 DEBUG Cliente ordena la lista de personas por su altura
+2021-05-06 16:51:12 DEBUG Cliente elimina todas las personas de la lista
